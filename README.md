@@ -3,6 +3,10 @@
 
 Я начинающий аналитик данных<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 Мой путь в IT начался с курсов DS BootCamp Яндекс Практикума. В настоящий момент мое обучение на курсе еще не завершено, но я уже готов попробовать свои силы в чем то более серьезном и нахожусь в поиске своей первой работы!
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 <!--
 **macfinigun/macfinigun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

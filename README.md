@@ -1,6 +1,9 @@
-### Hi there 👋
+### Привет, меня зовут Слава! 👋
 
 <!--
+
+Я начинающий аналитик данных <img src="https://media.giphy.com/media/c7PcKQlOqZ8Ws/giphy.gif" width="30px">.
+
 **macfinigun/macfinigun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

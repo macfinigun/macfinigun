@@ -27,4 +27,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macfinigun)](https://github.com/macfinigun/github-readme-stats)

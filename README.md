@@ -1,4 +1,4 @@
-### Привет, меня зовут Слава! 👋
+### Hi, there! 👋
 ---
 
 Я начинающий специалист по DataScience<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
